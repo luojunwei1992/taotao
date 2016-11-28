@@ -190,6 +190,16 @@
           <version>${kotlin.version}</version>
           <scope>test</scope>
       </dependency>
+    <dependency>
+      <groupId>org.testng</groupId>
+      <artifactId>testng</artifactId>
+      <version>RELEASE</version>
+    </dependency>
+    <dependency>
+      <groupId>com.taotao</groupId>
+      <artifactId>taotao-dev</artifactId>
+      <version>1.0-SNAPSHOT</version>
+    </dependency>
 
   </dependencies>
 
